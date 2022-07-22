@@ -6,9 +6,8 @@ url: "cliday.dev"
 theme_settings:
   # Meta
   title: cliday
-  avatar: assets/img/avatar.png
+  avatar: assets/img/Bash.JPG
   favicon: assets/favicon.ico
-  gravatar: f6aaf756885fc241eabe7eca879e41fc
   description: "Weekly CLI apps, tips, and articles." # used by search engines
 
   # Header and footer text
