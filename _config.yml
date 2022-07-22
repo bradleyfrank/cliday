@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/cliday"
-url: "bradleyfrank.github.io/"
+baseurl: "/"
+url: "cliday.dev"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
